@@ -1,0 +1,12 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Python
+.python-version
+__pycache__/
+*.pyc
+.python-version
+
+# QRs generados
+assets/*.png
