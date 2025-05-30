@@ -40,6 +40,14 @@ qrgen/
 └── README.md        # Este archivo
 ```
 
+## 📂 Carpeta de salida
+
+Todos los códigos QR generados se guardan automáticamente en la carpeta `qrs/`.
+Puedes cambiarle el nombre al archivo cuando se te pida.
+
+Ejemplo de archivo generado:
+`qrs/mi_qr_de_google.png`
+
 ## 🛠️ Dependencias
 
 - `qrcode[pil]` - Para generar códigos QR

@@ -6,7 +6,6 @@ Thumbs.db
 .python-version
 __pycache__/
 *.pyc
-.python-version
 
 # QRs generados
 assets/*.png
